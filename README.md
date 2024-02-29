@@ -18,9 +18,9 @@ Kindly follow the following Instructions to run the project in your system and i
   WATCH: Setup & Demo Of Project
 ```
 
-#### Final Source Code
+#### Download Final Source Code
 
-https://www.theblockchaincoders.com/sourceCode/build-and-deploy-digital-assets-license-marketplace-and-storage-dapp
+https://bit.ly/Assets-License-Marketplace
 
 #### Install Vs Code Editor
 
