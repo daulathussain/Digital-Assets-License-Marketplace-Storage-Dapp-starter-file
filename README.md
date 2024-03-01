@@ -14,13 +14,17 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
+- [Setup Video](https://youtu.be/a8gsJyHyIuU?si=eSH8k0hDsprbvmXJ)
+
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
 ```
 
 #### Download Final Source Code
 
-https://bit.ly/Assets-License-Marketplace
+- [Complete Source Code](https://bit.ly/Assets-License-Marketplace)
+
+
 
 #### Install Vs Code Editor
 
@@ -68,6 +72,7 @@ Once you download the final source code, you will get a ZIP file, then you will 
 ```
 
 #### Setup Video
+- [Setup Video](https://youtu.be/a8gsJyHyIuU?si=eSH8k0hDsprbvmXJ)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
